@@ -11,8 +11,3 @@
 ![Tor](https://img.shields.io/badge/Tor_Network-E2E8F0?style=for-the-badge&logo=tor-project&logoColor=7D4698)
 ![Nmap](https://img.shields.io/badge/Nmap-E2E8F0?style=for-the-badge&logo=kalilinux&logoColor=1F4E79)
 ![Git](https://img.shields.io/badge/Git-E2E8F0?style=for-the-badge&logo=git&logoColor=F05032)
-### Social media
-- **Reddit:** [@staatsrat](https://www.reddit.com/user/staatsrat/)
-- **Youtube:** [@staatsrat](https://www.youtube.com/@staatsrat) 
-- **X (Twitter):** [@staatsratx](https://x.com/staatsratx)
-

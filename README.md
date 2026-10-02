@@ -1,3 +1,1 @@
 # Staatsrat #
----
-Website: staatsrat.me
